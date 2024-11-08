@@ -6,8 +6,7 @@ set -e
 export PATH=${PATH}:${ANDROID_NDK_HOME}/toolchains/llvm/prebuilt/linux-x86_64/bin
 
 SCRIPT_LIST="
-scripts/util_functions.sh
-scripts/main.sh
+scripts/script.sh
 "
 
 for script in $SCRIPT_LIST; do
