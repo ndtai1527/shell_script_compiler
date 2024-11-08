@@ -1,0 +1,1 @@
+setprop ro.hma.is.gay 1
